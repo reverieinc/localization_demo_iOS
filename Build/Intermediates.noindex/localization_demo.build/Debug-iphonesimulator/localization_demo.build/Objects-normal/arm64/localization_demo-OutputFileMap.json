@@ -1,0 +1,78 @@
+{
+  "" : {
+    "diagnostics" : "/Users/chandanbhagabati/Documents/iphone-project/localization_demo/Build/Intermediates.noindex/localization_demo.build/Debug-iphonesimulator/localization_demo.build/Objects-normal/arm64/localization_demo-master.dia",
+    "emit-module-dependencies" : "/Users/chandanbhagabati/Documents/iphone-project/localization_demo/Build/Intermediates.noindex/localization_demo.build/Debug-iphonesimulator/localization_demo.build/Objects-normal/arm64/localization_demo-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/chandanbhagabati/Documents/iphone-project/localization_demo/Build/Intermediates.noindex/localization_demo.build/Debug-iphonesimulator/localization_demo.build/Objects-normal/arm64/localization_demo-master-emit-module.dia",
+    "swift-dependencies" : "/Users/chandanbhagabati/Documents/iphone-project/localization_demo/Build/Intermediates.noindex/localization_demo.build/Debug-iphonesimulator/localization_demo.build/Objects-normal/arm64/localization_demo-master.swiftdeps"
+  },
+  "/Users/chandanbhagabati/Documents/iphone-project/localization_demo/Build/Intermediates.noindex/localization_demo.build/Debug-iphonesimulator/localization_demo.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/chandanbhagabati/Documents/iphone-project/localization_demo/Build/Intermediates.noindex/localization_demo.build/Debug-iphonesimulator/localization_demo.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/chandanbhagabati/Documents/iphone-project/localization_demo/Build/Intermediates.noindex/localization_demo.build/Debug-iphonesimulator/localization_demo.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/chandanbhagabati/Documents/iphone-project/localization_demo/Build/Intermediates.noindex/localization_demo.build/Debug-iphonesimulator/localization_demo.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/localization_demo.build/Debug-iphonesimulator/localization_demo.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/chandanbhagabati/Documents/iphone-project/localization_demo/Build/Intermediates.noindex/localization_demo.build/Debug-iphonesimulator/localization_demo.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/chandanbhagabati/Documents/iphone-project/localization_demo/Build/Intermediates.noindex/localization_demo.build/Debug-iphonesimulator/localization_demo.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/chandanbhagabati/Documents/iphone-project/localization_demo/Build/Intermediates.noindex/localization_demo.build/Debug-iphonesimulator/localization_demo.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/chandanbhagabati/Documents/iphone-project/localization_demo/Build/Intermediates.noindex/localization_demo.build/Debug-iphonesimulator/localization_demo.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/chandanbhagabati/Documents/iphone-project/localization_demo/localization_demo/AppDelegate.swift" : {
+    "const-values" : "/Users/chandanbhagabati/Documents/iphone-project/localization_demo/Build/Intermediates.noindex/localization_demo.build/Debug-iphonesimulator/localization_demo.build/Objects-normal/arm64/AppDelegate.swiftconstvalues",
+    "dependencies" : "/Users/chandanbhagabati/Documents/iphone-project/localization_demo/Build/Intermediates.noindex/localization_demo.build/Debug-iphonesimulator/localization_demo.build/Objects-normal/arm64/AppDelegate.d",
+    "diagnostics" : "/Users/chandanbhagabati/Documents/iphone-project/localization_demo/Build/Intermediates.noindex/localization_demo.build/Debug-iphonesimulator/localization_demo.build/Objects-normal/arm64/AppDelegate.dia",
+    "index-unit-output-path" : "/localization_demo.build/Debug-iphonesimulator/localization_demo.build/Objects-normal/arm64/AppDelegate.o",
+    "llvm-bc" : "/Users/chandanbhagabati/Documents/iphone-project/localization_demo/Build/Intermediates.noindex/localization_demo.build/Debug-iphonesimulator/localization_demo.build/Objects-normal/arm64/AppDelegate.bc",
+    "object" : "/Users/chandanbhagabati/Documents/iphone-project/localization_demo/Build/Intermediates.noindex/localization_demo.build/Debug-iphonesimulator/localization_demo.build/Objects-normal/arm64/AppDelegate.o",
+    "swift-dependencies" : "/Users/chandanbhagabati/Documents/iphone-project/localization_demo/Build/Intermediates.noindex/localization_demo.build/Debug-iphonesimulator/localization_demo.build/Objects-normal/arm64/AppDelegate.swiftdeps",
+    "swiftmodule" : "/Users/chandanbhagabati/Documents/iphone-project/localization_demo/Build/Intermediates.noindex/localization_demo.build/Debug-iphonesimulator/localization_demo.build/Objects-normal/arm64/AppDelegate~partial.swiftmodule"
+  },
+  "/Users/chandanbhagabati/Documents/iphone-project/localization_demo/localization_demo/FirstViewController.swift" : {
+    "const-values" : "/Users/chandanbhagabati/Documents/iphone-project/localization_demo/Build/Intermediates.noindex/localization_demo.build/Debug-iphonesimulator/localization_demo.build/Objects-normal/arm64/FirstViewController.swiftconstvalues",
+    "dependencies" : "/Users/chandanbhagabati/Documents/iphone-project/localization_demo/Build/Intermediates.noindex/localization_demo.build/Debug-iphonesimulator/localization_demo.build/Objects-normal/arm64/FirstViewController.d",
+    "diagnostics" : "/Users/chandanbhagabati/Documents/iphone-project/localization_demo/Build/Intermediates.noindex/localization_demo.build/Debug-iphonesimulator/localization_demo.build/Objects-normal/arm64/FirstViewController.dia",
+    "index-unit-output-path" : "/localization_demo.build/Debug-iphonesimulator/localization_demo.build/Objects-normal/arm64/FirstViewController.o",
+    "llvm-bc" : "/Users/chandanbhagabati/Documents/iphone-project/localization_demo/Build/Intermediates.noindex/localization_demo.build/Debug-iphonesimulator/localization_demo.build/Objects-normal/arm64/FirstViewController.bc",
+    "object" : "/Users/chandanbhagabati/Documents/iphone-project/localization_demo/Build/Intermediates.noindex/localization_demo.build/Debug-iphonesimulator/localization_demo.build/Objects-normal/arm64/FirstViewController.o",
+    "swift-dependencies" : "/Users/chandanbhagabati/Documents/iphone-project/localization_demo/Build/Intermediates.noindex/localization_demo.build/Debug-iphonesimulator/localization_demo.build/Objects-normal/arm64/FirstViewController.swiftdeps",
+    "swiftmodule" : "/Users/chandanbhagabati/Documents/iphone-project/localization_demo/Build/Intermediates.noindex/localization_demo.build/Debug-iphonesimulator/localization_demo.build/Objects-normal/arm64/FirstViewController~partial.swiftmodule"
+  },
+  "/Users/chandanbhagabati/Documents/iphone-project/localization_demo/localization_demo/SceneDelegate.swift" : {
+    "const-values" : "/Users/chandanbhagabati/Documents/iphone-project/localization_demo/Build/Intermediates.noindex/localization_demo.build/Debug-iphonesimulator/localization_demo.build/Objects-normal/arm64/SceneDelegate.swiftconstvalues",
+    "dependencies" : "/Users/chandanbhagabati/Documents/iphone-project/localization_demo/Build/Intermediates.noindex/localization_demo.build/Debug-iphonesimulator/localization_demo.build/Objects-normal/arm64/SceneDelegate.d",
+    "diagnostics" : "/Users/chandanbhagabati/Documents/iphone-project/localization_demo/Build/Intermediates.noindex/localization_demo.build/Debug-iphonesimulator/localization_demo.build/Objects-normal/arm64/SceneDelegate.dia",
+    "index-unit-output-path" : "/localization_demo.build/Debug-iphonesimulator/localization_demo.build/Objects-normal/arm64/SceneDelegate.o",
+    "llvm-bc" : "/Users/chandanbhagabati/Documents/iphone-project/localization_demo/Build/Intermediates.noindex/localization_demo.build/Debug-iphonesimulator/localization_demo.build/Objects-normal/arm64/SceneDelegate.bc",
+    "object" : "/Users/chandanbhagabati/Documents/iphone-project/localization_demo/Build/Intermediates.noindex/localization_demo.build/Debug-iphonesimulator/localization_demo.build/Objects-normal/arm64/SceneDelegate.o",
+    "swift-dependencies" : "/Users/chandanbhagabati/Documents/iphone-project/localization_demo/Build/Intermediates.noindex/localization_demo.build/Debug-iphonesimulator/localization_demo.build/Objects-normal/arm64/SceneDelegate.swiftdeps",
+    "swiftmodule" : "/Users/chandanbhagabati/Documents/iphone-project/localization_demo/Build/Intermediates.noindex/localization_demo.build/Debug-iphonesimulator/localization_demo.build/Objects-normal/arm64/SceneDelegate~partial.swiftmodule"
+  },
+  "/Users/chandanbhagabati/Documents/iphone-project/localization_demo/localization_demo/SecondViewController.swift" : {
+    "const-values" : "/Users/chandanbhagabati/Documents/iphone-project/localization_demo/Build/Intermediates.noindex/localization_demo.build/Debug-iphonesimulator/localization_demo.build/Objects-normal/arm64/SecondViewController.swiftconstvalues",
+    "dependencies" : "/Users/chandanbhagabati/Documents/iphone-project/localization_demo/Build/Intermediates.noindex/localization_demo.build/Debug-iphonesimulator/localization_demo.build/Objects-normal/arm64/SecondViewController.d",
+    "diagnostics" : "/Users/chandanbhagabati/Documents/iphone-project/localization_demo/Build/Intermediates.noindex/localization_demo.build/Debug-iphonesimulator/localization_demo.build/Objects-normal/arm64/SecondViewController.dia",
+    "index-unit-output-path" : "/localization_demo.build/Debug-iphonesimulator/localization_demo.build/Objects-normal/arm64/SecondViewController.o",
+    "llvm-bc" : "/Users/chandanbhagabati/Documents/iphone-project/localization_demo/Build/Intermediates.noindex/localization_demo.build/Debug-iphonesimulator/localization_demo.build/Objects-normal/arm64/SecondViewController.bc",
+    "object" : "/Users/chandanbhagabati/Documents/iphone-project/localization_demo/Build/Intermediates.noindex/localization_demo.build/Debug-iphonesimulator/localization_demo.build/Objects-normal/arm64/SecondViewController.o",
+    "swift-dependencies" : "/Users/chandanbhagabati/Documents/iphone-project/localization_demo/Build/Intermediates.noindex/localization_demo.build/Debug-iphonesimulator/localization_demo.build/Objects-normal/arm64/SecondViewController.swiftdeps",
+    "swiftmodule" : "/Users/chandanbhagabati/Documents/iphone-project/localization_demo/Build/Intermediates.noindex/localization_demo.build/Debug-iphonesimulator/localization_demo.build/Objects-normal/arm64/SecondViewController~partial.swiftmodule"
+  },
+  "/Users/chandanbhagabati/Documents/iphone-project/localization_demo/localization_demo/Utils.swift" : {
+    "const-values" : "/Users/chandanbhagabati/Documents/iphone-project/localization_demo/Build/Intermediates.noindex/localization_demo.build/Debug-iphonesimulator/localization_demo.build/Objects-normal/arm64/Utils.swiftconstvalues",
+    "dependencies" : "/Users/chandanbhagabati/Documents/iphone-project/localization_demo/Build/Intermediates.noindex/localization_demo.build/Debug-iphonesimulator/localization_demo.build/Objects-normal/arm64/Utils.d",
+    "diagnostics" : "/Users/chandanbhagabati/Documents/iphone-project/localization_demo/Build/Intermediates.noindex/localization_demo.build/Debug-iphonesimulator/localization_demo.build/Objects-normal/arm64/Utils.dia",
+    "index-unit-output-path" : "/localization_demo.build/Debug-iphonesimulator/localization_demo.build/Objects-normal/arm64/Utils.o",
+    "llvm-bc" : "/Users/chandanbhagabati/Documents/iphone-project/localization_demo/Build/Intermediates.noindex/localization_demo.build/Debug-iphonesimulator/localization_demo.build/Objects-normal/arm64/Utils.bc",
+    "object" : "/Users/chandanbhagabati/Documents/iphone-project/localization_demo/Build/Intermediates.noindex/localization_demo.build/Debug-iphonesimulator/localization_demo.build/Objects-normal/arm64/Utils.o",
+    "swift-dependencies" : "/Users/chandanbhagabati/Documents/iphone-project/localization_demo/Build/Intermediates.noindex/localization_demo.build/Debug-iphonesimulator/localization_demo.build/Objects-normal/arm64/Utils.swiftdeps",
+    "swiftmodule" : "/Users/chandanbhagabati/Documents/iphone-project/localization_demo/Build/Intermediates.noindex/localization_demo.build/Debug-iphonesimulator/localization_demo.build/Objects-normal/arm64/Utils~partial.swiftmodule"
+  },
+  "/Users/chandanbhagabati/Documents/iphone-project/localization_demo/localization_demo/ViewController.swift" : {
+    "const-values" : "/Users/chandanbhagabati/Documents/iphone-project/localization_demo/Build/Intermediates.noindex/localization_demo.build/Debug-iphonesimulator/localization_demo.build/Objects-normal/arm64/ViewController.swiftconstvalues",
+    "dependencies" : "/Users/chandanbhagabati/Documents/iphone-project/localization_demo/Build/Intermediates.noindex/localization_demo.build/Debug-iphonesimulator/localization_demo.build/Objects-normal/arm64/ViewController.d",
+    "diagnostics" : "/Users/chandanbhagabati/Documents/iphone-project/localization_demo/Build/Intermediates.noindex/localization_demo.build/Debug-iphonesimulator/localization_demo.build/Objects-normal/arm64/ViewController.dia",
+    "index-unit-output-path" : "/localization_demo.build/Debug-iphonesimulator/localization_demo.build/Objects-normal/arm64/ViewController.o",
+    "llvm-bc" : "/Users/chandanbhagabati/Documents/iphone-project/localization_demo/Build/Intermediates.noindex/localization_demo.build/Debug-iphonesimulator/localization_demo.build/Objects-normal/arm64/ViewController.bc",
+    "object" : "/Users/chandanbhagabati/Documents/iphone-project/localization_demo/Build/Intermediates.noindex/localization_demo.build/Debug-iphonesimulator/localization_demo.build/Objects-normal/arm64/ViewController.o",
+    "swift-dependencies" : "/Users/chandanbhagabati/Documents/iphone-project/localization_demo/Build/Intermediates.noindex/localization_demo.build/Debug-iphonesimulator/localization_demo.build/Objects-normal/arm64/ViewController.swiftdeps",
+    "swiftmodule" : "/Users/chandanbhagabati/Documents/iphone-project/localization_demo/Build/Intermediates.noindex/localization_demo.build/Debug-iphonesimulator/localization_demo.build/Objects-normal/arm64/ViewController~partial.swiftmodule"
+  }
+}

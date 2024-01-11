@@ -1,0 +1,63 @@
+{
+  "buildCommand" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildAndRun"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "8167a7d4692042db5ad17dfb97685f4abc7c5b0c9d885142ec82324502a16587"
+    }
+  ],
+  "containerPath" : "/Users/chandanbhagabati/Documents/iphone-project/localization_demo/localization_demo.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator17.0",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/chandanbhagabati/Documents/iphone-project/localization_demo/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/chandanbhagabati/Documents/iphone-project/localization_demo/Build/Products",
+      "derivedDataPath" : "/Users/chandanbhagabati/Documents/iphone-project",
+      "indexDataStoreFolderPath" : "/Users/chandanbhagabati/Documents/iphone-project/localization_demo-clnhqefapppyodbgnpndtttxenac/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/chandanbhagabati/Documents/iphone-project/localization_demo-clnhqefapppyodbgnpndtttxenac/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/chandanbhagabati/Documents/iphone-project/localization_demo/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone16,1",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "17.0.1",
+          "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone16,1",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "TARGET_DEVICE_IDENTIFIER" : "E0E382E9-E4E8-43F6-8FB0-8E083370ABEA",
+          "TARGET_DEVICE_MODEL" : "iPhone16,1",
+          "TARGET_DEVICE_OS_VERSION" : "17.0.1",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

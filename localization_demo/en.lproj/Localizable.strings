@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  localization_demo
+
+  Created by Chandan Bhagabati on 11/01/24.
+  
+*/
+
+"page.content.first" = "My first Page";
+"page.content.second" = "My second Page";
+"lang.change.alert" = "changing.language programatically. You need to restart the application to take effect of the change";
+"exit.app" = "exit";
+"lang.english" = "English";
+"lang.hindi" = "Hindi";
+"lang.gujarati" = "Gujarati";
+"lang.settings" = "Settings";

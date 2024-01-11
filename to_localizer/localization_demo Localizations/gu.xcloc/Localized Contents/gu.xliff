@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="localization_demo/Base.lproj/Main.storyboard" source-language="en" target-language="gu" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.0.1" build-num="15A507"/>
+    </header>
+    <body>
+      <trans-unit id="1pu-MN-Duh.configuration.title" xml:space="preserve">
+        <source>Next</source>
+        <target>Next</target>
+        <note>Class = "UIButton"; configuration.title = "Next"; ObjectID = "1pu-MN-Duh";</note>
+      </trans-unit>
+      <trans-unit id="1pu-MN-Duh.normalTitle" xml:space="preserve">
+        <source>Button</source>
+        <target>Button</target>
+        <note>Class = "UIButton"; normalTitle = "Button"; ObjectID = "1pu-MN-Duh";</note>
+      </trans-unit>
+      <trans-unit id="Anh-Gx-5Oa.title" xml:space="preserve">
+        <source>First Page</source>
+        <target>પ્રથમ પૃષ્ઠ</target>
+        <note>Class = "UINavigationItem"; title = "First Page"; ObjectID = "Anh-Gx-5Oa";</note>
+      </trans-unit>
+      <trans-unit id="GsT-ku-t3K.configuration.title" xml:space="preserve">
+        <source>Previous</source>
+        <target>Previous</target>
+        <note>Class = "UIButton"; configuration.title = "Previous"; ObjectID = "GsT-ku-t3K";</note>
+      </trans-unit>
+      <trans-unit id="GsT-ku-t3K.normalTitle" xml:space="preserve">
+        <source>Button</source>
+        <target>Button</target>
+        <note>Class = "UIButton"; normalTitle = "Button"; ObjectID = "GsT-ku-t3K";</note>
+      </trans-unit>
+      <trans-unit id="HkS-1j-z5k.text" xml:space="preserve">
+        <source>My Second Page</source>
+        <target>My Second Page</target>
+        <note>Class = "UILabel"; text = "My Second Page"; ObjectID = "HkS-1j-z5k";</note>
+      </trans-unit>
+      <trans-unit id="fOP-EN-Dsr.text" xml:space="preserve">
+        <source>My First Page</source>
+        <target>My First Page</target>
+        <note>Class = "UILabel"; text = "My First Page"; ObjectID = "fOP-EN-Dsr";</note>
+      </trans-unit>
+      <trans-unit id="jZW-06-blH.title" xml:space="preserve">
+        <source>Second Page</source>
+        <target>Second Page</target>
+        <note>Class = "UINavigationItem"; title = "Second Page"; ObjectID = "jZW-06-blH";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="localization_demo/en.lproj/Localizable.strings" source-language="en" target-language="gu" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.0.1" build-num="15A507"/>
+    </header>
+    <body>
+      <trans-unit id="page.content.first" xml:space="preserve">
+        <source>My first Page</source>
+        <target>મારું પ્રથમ પૃષ્ઠ</target>
+        <note>Localizable.strings
+  localization_demo
+
+  Created by Chandan Bhagabati on 11/01/24.</note>
+      </trans-unit>
+      <trans-unit id="page.content.second" xml:space="preserve">
+        <source>My second Page</source>
+        <note/>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="localization_demo/InfoPlist.xcstrings" source-language="en" target-language="gu" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.0.1" build-num="15A507"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>localization_demo</source>
+        <note>Bundle name</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

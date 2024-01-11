@@ -1,0 +1,24 @@
+
+/* Class = "UIButton"; configuration.title = "Next"; ObjectID = "1pu-MN-Duh"; */
+"1pu-MN-Duh.configuration.title" = "Next";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "1pu-MN-Duh"; */
+"1pu-MN-Duh.normalTitle" = "Button";
+
+/* Class = "UINavigationItem"; title = "First Page"; ObjectID = "Anh-Gx-5Oa"; */
+"Anh-Gx-5Oa.title" = "પ્રથમ પૃષ્ઠ";
+
+/* Class = "UIButton"; configuration.title = "Previous"; ObjectID = "GsT-ku-t3K"; */
+"GsT-ku-t3K.configuration.title" = "Previous";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "GsT-ku-t3K"; */
+"GsT-ku-t3K.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "My Second Page"; ObjectID = "HkS-1j-z5k"; */
+"HkS-1j-z5k.text" = "My Second Page";
+
+/* Class = "UILabel"; text = "My First Page"; ObjectID = "fOP-EN-Dsr"; */
+"fOP-EN-Dsr.text" = "My First Page";
+
+/* Class = "UINavigationItem"; title = "Second Page"; ObjectID = "jZW-06-blH"; */
+"jZW-06-blH.title" = "Second Page";

@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  localization_demo
+
+  Created by Chandan Bhagabati on 11/01/24.
+  
+*/
+"page.content.first" = "मेरा पहला पेज";
+"page.content.second" = "My second Page";
+"lang.english" = "अंग्रेज़ी";
+"lang.hindi" = "हिंदी";
+"lang.gujarati" = "गुजराती";
+"lang.settings" = "सेटिंग्स";

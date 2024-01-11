@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  localization_demo
+
+  Created by Chandan Bhagabati on 11/01/24.
+  
+*/
+
+"page.content.first" = "My first Page";
+"page.content.second" = "My second Page";
